@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+    <title>Sky Hero</title>
+</head>
+<body>
+    <canvas id="game-canvas" width="320" height="480"></canvas>
+    <style>
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(180deg,
+                        rgba(0,0,0,1) 0%, 
+                        rgba(2,0,36,1) 60%,
+                        rgba(253,29,29,1) 88%, 
+                        rgba(252,176,69,1) 100%)
+        }
+        canvas{
+            border-radius: .6rem;
+            border: 5px solid #000;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+
+    <script src="./jogo.js"></script>
+</body>
+</html>
