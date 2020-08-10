@@ -26,4 +26,4 @@ Esse projeto não possui um sistema de versionamento.
 Da uma olhada na aba [Releases](https://github.com/omariosouto/flappy-bird-devsoutinho/releases) pra acompanhar as alterações feitas no projeto.
 
 ## License/Licença do Projeto
-[MIT License](./LICENSE.md) © [Mario Souto](http://mariosouto.com/)
+[MIT License](./LICENSE.md) © [Mario Souto](http://mariosouto.com/) & [MIT License](./LICENSE.md) © [Guilherme Sanches](https://www.buildrweb.grupoanjoguardiao.com/)
