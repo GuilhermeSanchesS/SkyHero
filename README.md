@@ -8,7 +8,7 @@
 
 > Projeto da a [série de vídeos no YouTube no canal DevSoutinho](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej) ensinando a fazer um jogo com JavaScript do ZERO!
 > 
-> Quer ver como ta ficando? Acessa a [**DEMO**](https://mariosouto.com/flappy-bird-devsoutinho/)
+> Quer ver como ta ficando? Acessa a [**DEMO**](https://guilhermesanchess.github.io/SkyHero/)
 
 <p align="center">
   <img alt="Logo do projeto" src="./_docs/logo.png" />
