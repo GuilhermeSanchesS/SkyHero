@@ -11,7 +11,7 @@
 > Quer ver como ta ficando? Acessa a [**DEMO**](https://guilhermesanchess.github.io/SkyHero/)
 
 <p align="center">
-  <img alt="Logo do projeto" src="./docs/logo.png" />
+  <img alt="Logo do projeto" src="./docs/ />
 </p>
 
 ## Contributing/Contribuir
