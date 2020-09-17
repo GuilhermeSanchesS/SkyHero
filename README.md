@@ -1,7 +1,7 @@
 # SkyHero
 
 
-[![Série](https://img.shields.io/badge/DevSoutinho-Flappy%20Bird-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+[![Série](https://img.shields.io/badge/GuilhermeSanchesS%20Bird-orange)](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
 
 - [Switch to 🇺🇸](./_docs/README_en-us.md)?
@@ -11,7 +11,7 @@
 > Quer ver como ta ficando? Acessa a [**DEMO**](https://guilhermesanchess.github.io/SkyHero/)
 
 <p align="center">
-  <iframe src="https://drive.google.com/file/d/1CqJAs_R_uFh_MLYhKOTtrkun1muXr_4b/preview" width="640" height="480"></iframe>
+  <img src="./docs/maker.gif">
 </p>
 
 ## Contributing/Contribuir
